@@ -1,0 +1,10 @@
+target/
+*.jar
+*.war
+.mvn/
+.idea/
+.DS_Store
+application.properties
+.env
+node_modules/
+
